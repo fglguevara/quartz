@@ -1,0 +1,43 @@
+<a href="https://cursos.formacionactivate.es/productividad-personal/unidad/2" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><b><u>Módulo 1: Plan estratégico y planes de acción</u></b></a>
+
+- &nbsp;
+		- <a href="https://docs.google.com/document/d/1cIJaFrBw3MtXrLq6bP0AlbYFjvfup5IGExVqIXCGp30/edit?usp=sharing" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>¿Para qué sirve un plan estratégico?</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/2#/3" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Autoconocimiento. ¿Quién soy?</u></a>  
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/2#/5" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Los objetivos y el plan de acción. ¿Qué deseo? ¿Cómo puedo lograrlo?</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/2#/7" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Colaboración y ayuda. ¿En quién me apoyo?</u></a> 
+	- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/3" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><b><u>Módulo 2: Marca personal y reputación online</u></b></a>
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/3#/1" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Introducción a la "marca personal integral”</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/3#/3" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Argumentario de ventas: el valor añadido</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/3#/5" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Gestión del entorno online. Comunicando nuestra marca</u></a> 
+	- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/4" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><b><u>Módulo 3: Comunicación 2.0 y redes sociales</u></b></a>
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/4#/1" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Introducción. ¿Hay algo más importante que la comunicación?</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/4#/3" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Las modas cambian. ¿Qué tal te sienta la comunicación 2.0?</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/4#/5" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Redes: no navegues sin rumbo</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/4#/7" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>No te andes por las ramas: sujeto, verbo y predicado</u></a> 
+	- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/5" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><b><u>Módulo 4: Trabajo en equipo y herramientas groupware</u></b></a>
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/5#/1" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>La importancia del trabajo en equipo en el ámbito digital</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/5#/3" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Herramientas digitales para el trabajo colaborativo</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/5#/5" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Plataformas integradas</u></a> 
+
+ 	- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/6" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><b><u>Módulo 5: Generación creativa de ideas</u></b></a>
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/6#/1" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Creatividad e innovación en la productividad personal</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/6#/3" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Herramientas digitales que facilitan la generación creativa de ideas</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/6#/5" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>La elaboración de mapas mentales como herramienta para generar y ordenar ideas creativas</u></a> 
+	- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/7" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><b><u>Módulo 6: Herramientas para el análisis de problemas</u></b></a>
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/7#/1" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>El concepto de problema y su análisis</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/7#/3" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Método analítico para la resolución de problemas. Identificación del problema</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/7#/5" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Análisis de las causas de los problemas. El método de los 5 porqués y el diagrama de causa–efecto</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/7#/7" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Implementación de acciones para resolver problemas</u></a> 
+	- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/9" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><b><u>Módulo 7: Gestión del tiempo</u></b></a>
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/9#/1" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>La importancia de la gestión del tiempo en los entonos digitales</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/9#/3" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Importante vs. urgente</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/9#/5" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Google Calendar como herramienta para planificar</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/9#/7" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Pautas para terminar con las interrupciones</u></a> 
+	- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/10" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><b><u>Módulo 8: Presentaciones eficaces</u></b></a>
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/10#/1" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Claves para realizar una presentación eficaz</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/10#/3" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Software y páginas de utilidad</u></a> 
+		- <a href="https://cursos.formacionactivate.es/productividad-personal/unidad/10#/5" rel="noopener" class="external-link" target="_blank" style="font-size:11.142857551574707pt;"><u>Incrustación de elementos audiovisuales</u></a> 
+
+
+
+#productividad #Productivity
